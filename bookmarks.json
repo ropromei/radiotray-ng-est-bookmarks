@@ -1,0 +1,496 @@
+[
+	{
+		"group" : "Juturaadiod",
+		"stations" : 
+		[
+			{
+				"name" : "Kuku",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku.aac"
+			},
+			{
+				"name" : "Pereraadio Tallinn",
+				"url" : "https://icecast.pereraadio.ee:9000/Tallinn"
+			},
+			{
+				"name" : "Pereraadio Tartu",
+				"url" : "https://icecast.pereraadio.ee:9000/Tartu"
+			},
+			{
+				"name" : "Pereraadio Kuressaare",
+				"url" : "https://icecast.pereraadio.ee:9000/Kuressaare"
+			},
+			{
+				"name" : "Raadio 7",
+				"url" : "https://stream.skymedia.ee/live/R7"
+			},
+			{
+				"name" : "Vikerraadio",
+				"url" : "https://icecast.err.ee/vikerraadio.mp3"
+			},
+			{
+				"name" : "\u00c4rip\u00e4eva Raadio",
+				"url" : "https://ice.leviracloud.eu/aripaev128-mp3"
+			}
+		]
+	},
+	{
+		"group" : "Kohalik",
+		"stations" : 
+		[
+			{
+				"name" : "Kadi",
+				"url" : "https://edge06.cdn.bitflip.ee:8888/kadi"
+			},
+			{
+				"name" : "Kaguraadio",
+				"url" : "https://radio.vlevelscdn.net/radio/kaguraadio.stream/playlist.m3u8"
+			},
+			{
+				"name" : "Ring FM",
+				"url" : "https://cdn.treraadio.ee/ringfm"
+			},
+			{
+				"name" : "Ruut FM",
+				"url" : "https://cdn.treraadio.ee/ruutfm"
+			},
+			{
+				"name" : "Tre Raadio Kesk-Eesti",
+				"url" : "https://cdn.treraadio.ee/kesk-eesti-tre"
+			},
+			{
+				"name" : "Tre Raadio P\u00f5hja-Eesti",
+				"url" : "https://cdn.treraadio.ee/pohja-tre"
+			},
+			{
+				"name" : "Tre Raadio P\u00e4rnu",
+				"url" : "https://cdn.treraadio.ee/parnu-tre"
+			},
+			{
+				"name" : "Tre Raadio Rapla",
+				"url" : "https://cdn.treraadio.ee/rapla-tre"
+			},
+			{
+				"name" : "Tre Raadio Viljandi",
+				"url" : "https://sc2.treraadio.ee/viljandi-tre"
+			},
+			{
+				"name" : "Tre Raadio Viru",
+				"url" : "https://sc2.treraadio.ee/viru-tre"
+			}
+		]
+	},
+	{
+		"group" : "Popmuusika",
+		"stations" : 
+		[
+			{
+				"name" : "Duo",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac"
+			},
+			{
+				"name" : "Duo Hitmix",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DHM_hitmix.aac"
+			},
+			{
+				"name" : "Elmar",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac"
+			},
+			{
+				"name" : "Hitmix Estonia",
+				"url" : "https://stream.hitmix.ee:8443/HIT_320"
+			},
+			{
+				"name" : "Kiss FM",
+				"url" : "https://stream.skymedia.ee/live/KISS_AAC"
+			},
+			{
+				"name" : "MyHits",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
+			},
+			{
+				"name" : "Novoe Radio",
+				"url" : "https://c4.radioboss.fm:8538/stream"
+			},
+			{
+				"name" : "Power Hit Radio",
+				"url" : "https://ice.leviracloud.eu/phr128-aac"
+			},
+			{
+				"name" : "Raadio 2",
+				"url" : "https://icecast.err.ee/raadio2.mp3"
+			},
+			{
+				"name" : "R2Extra Altpop",
+				"url" : "https://icecast.err.ee/r2alternatiiv.mp3"
+			},
+			{
+				"name" : "R2Extra Eesti",
+				"url" : "https://icecast.err.ee/r2eesti.mp3"
+			},
+			{
+				"name" : "R2Extra Music",
+				"url" : "https://icecast.err.ee/r2music.mp3"
+			},
+			{
+				"name" : "R2Extra Pop",
+				"url" : "https://icecast.err.ee/r2pop.mp3"
+			},
+			{
+				"name" : "Radio Top",
+				"url" : "https://c32.radioboss.fm:8744/stream"
+			},
+			{
+				"name" : "Sky Plus",
+				"url" : "https://stream.skymedia.ee/live/SKYPLUS_AAC"
+			},
+			{
+				"name" : "Star FM",
+				"url" : "https://ice.leviracloud.eu/star128-aac"
+			},
+			{
+				"name" : "Star FM Eesti",
+				"url" : "https://ice.leviracloud.eu/starFMEesti128-aac"
+			},
+			{
+				"name" : "Tre Hits Radio",
+				"url" : "https://stream1.rcast.net/66833http://live.rcast.net:8714/electronic.mp3"
+			}
+		]
+	},
+	{
+		"group" : "Rokkmuusika",
+		"stations" : 
+		[
+			{
+				"name" : "MyHits Rock",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/MHR_myhitsrock.aac"
+			},
+			{
+				"name" : "R2Extra Rock",
+				"url" : "https://icecast.err.ee/r2rock.mp3"
+			},
+			{
+				"name" : "Rock FM",
+				"url" : "https://stream.skymedia.ee/live/rck_AAC"
+			},
+			{
+				"name" : "Rock FM Metal",
+				"url" : "https://stream.skymedia.ee/live/rckmetal"
+			},
+			{
+				"name" : "Super Rok",
+				"url" : "https://stream.skymedia.ee/live/rrock"
+			}
+		]
+	},
+	{
+		"group" : "R\u00e4ppmuusika",
+		"stations" : 
+		[
+			{
+				"name" : "Legendaarne Raadio",
+				"url" : "https://stream.skymedia.ee/live/Legendaarne"
+			},
+			{
+				"name" : "R2Extra Rap",
+				"url" : "https://icecast.err.ee/r2p.mp3"
+			}
+		]
+	},
+	{
+		"group" : "Tantsumuusika",
+		"stations" : 
+		[
+			{
+				"name" : "Chat Raadio",
+				"url" : "https://puma.streemlion.com:1830/stream"
+			},
+			{
+				"name" : "Doubleclap",
+				"url" : "https://s3.radio.co/scfd7273b2/listen"
+			},
+			{
+				"name" : "Duo Party",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac"
+			},
+			{
+				"name" : "Elmari Tantsu\u00f5htu",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmaritantsuohtu.aac"
+			},
+			{
+				"name" : "Estonian Party Radio",
+				"url" : "https://maggie.torontocast.com:2020/8110/stream"
+			},
+			{
+				"name" : "Hard FM",
+				"url" : "https://s5.radio.co/s69e02764f/listen"
+			},
+			{
+				"name" : "Kiss FM Eurovision",
+				"url" : "https://stream.skymedia.ee/live/KissEurovisioon"
+			},
+			{
+				"name" : "Kiss FM Pride",
+				"url" : "https://stream.skymedia.ee/live/KissPride"
+			},
+			{
+				"name" : "MyHits Dance",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/md_mhdance.aac"
+			},
+			{
+				"name" : "NRJ",
+				"url" : "https://stream.skymedia.ee/live/NRJ"
+			},
+			{
+				"name" : "Sky Plus D'n'B",
+				"url" : "https://stream.skymedia.ee/live/NRJdnb"
+			},
+			{
+				"name" : "Space FM",
+				"url" : "https://c34.radioboss.fm/stream/843"
+			},
+			{
+				"name" : "Vibra FM",
+				"url" : "https://a11.asurahosting.com:6800/radio.mp3"
+			},
+			{
+				"name" : "XL Radio",
+				"url" : "https://stream3.rcast.net/69794"
+			}
+		]
+	},
+	{
+		"group" : "Kullafond",
+		"stations" : 
+		[
+			{
+				"name" : "All The Best Radio",
+				"url" : "https://c4.radioboss.fm:8537/stream"
+			},
+			{
+				"name" : "Duo Gold",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
+			},
+			{
+				"name" : "Elmari Kuld",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmarikuld.aac"
+			},
+			{
+				"name" : "HappyU",
+				"url" : "https://radio.streemlion.com:2525/stream"
+			},
+			{
+				"name" : "Radio Nostalgia",
+				"url" : "https://c16.radioboss.fm:8327/stream"
+			},
+			{
+				"name" : "Retro FM",
+				"url" : "https://stream.skymedia.ee/live/RETRO_AAC"
+			},
+			{
+				"name" : "Retro FM Disco",
+				"url" : "https://stream.skymedia.ee/live/retro1.mp3"
+			},
+			{
+				"name" : "Retro FM Eestikas",
+				"url" : "https://stream.skymedia.ee/live/retro2.mp3"
+			},
+			{
+				"name" : "Retro FM Love",
+				"url" : "https://stream.skymedia.ee/live/RetroJ6ulud"
+			},
+			{
+				"name" : "Sooviraadio",
+				"url" : "https://play.sooviraadio.net/stream.mp3"
+			},
+			{
+				"name" : "Super Retro",
+				"url" : "https://stream.skymedia.ee/live/rrretro"
+			}
+		]
+	},
+	{
+		"group" : "Rahulik muusika",
+		"stations" : 
+		[
+			{
+				"name" : "Klassikaraadio",
+				"url" : "https://icecast.err.ee/klassikaraadio.mp3"
+			},
+			{
+				"name" : "KlaRa Jazz",
+				"url" : "https://icecast.err.ee/klarajazz.mp3"
+			},
+			{
+				"name" : "KlaRa Klassika",
+				"url" : "https://icecast.err.ee/klaraklassika.mp3"
+			},
+			{
+				"name" : "KlaRa Nostalgia",
+				"url" : "https://icecast.err.ee/klaranostalgia.mp3"
+			},
+			{
+				"name" : "Relax FM",
+				"url" : "https://stream.skymedia.ee/live/relax"
+			},
+			{
+				"name" : "Relax Cafe",
+				"url" : "https://stream.skymedia.ee/live/cafe"
+			},
+			{
+				"name" : "Relax Instrumental",
+				"url" : "https://stream.skymedia.ee/live/instrumental"
+			},
+			{
+				"name" : "Relax International",
+				"url" : "https://stream.skymedia.ee/live/international"
+			},
+			{
+				"name" : "Relax Spa",
+				"url" : "https://stream.skymedia.ee/live/spa"
+			},
+			{
+				"name" : "R2Extra Chill",
+				"url" : "https://icecast.err.ee/r2chill.mp3"
+			},
+			{
+				"name" : "Raadio Tallinn",
+				"url" : "https://icecast.err.ee/raadiotallinn.mp3"
+			}
+		]
+	},
+	{
+		"group" : "Muu muusika",
+		"stations" : 
+		[
+			{
+				"name" : "Duo Country",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac"
+			},
+			{
+				"name" : "IDA Raadio Helsinki",
+				"url" : "https://broadcast.idaidaida.net:8030/stream"
+			},
+			{
+				"name" : "IDA Raadio Tallinn",
+				"url" : "https://broadcast.idaidaida.net:8000/stream"
+			},
+			{
+				"name" : "Kidzone",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac"
+			},
+			{
+				"name" : "MyHits Circle K",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/circle-k.aac"
+			},
+			{
+				"name" : "Rahvaraadio",
+				"url" : "http://streamer.tt.ee:8000/rahvaraadio"
+			},
+			{
+				"name" : "Taifuun FM",
+				"url" : "https://eagle.streemlion.com/proxy/taifuunfm?mp=/stream"
+			},
+			{
+				"name" : "V\u00f5mba FM",
+				"url" : "https://c4.radioboss.fm:18123/live"
+			}
+		]
+	},
+	{
+		"group" : "V\u00f5\u00f5rkeelsed",
+		"stations" : 
+		[
+			{
+				"name" : "drUzi",
+				"url" : "https://druzi.fm:8443/192mp3"
+			},
+			{
+				"name" : "Jumor FM",
+				"url" : "https://a10.asurahosting.com:7640/radio.mp3"
+			},
+			{
+				"name" : "Narodnoe Radio",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.aac"
+			},
+			{
+				"name" : "Raadio 4",
+				"url" : "https://icecast.err.ee/raadio4.mp3"
+			},
+			{
+				"name" : "Radio Eli",
+				"url" : "https://icecast.pereraadio.ee:9000/RadioEli"
+			},
+			{
+				"name" : "Radio Maximum",
+				"url" : "https://stream.radiomaximum.ee/stream"
+			},
+			{
+				"name" : "Semeinoje Radio",
+				"url" : "https://icecast.pereraadio.ee:9000/Semeinoje"
+			},
+			{
+				"name" : "Sky Radio",
+				"url" : "https://stream.skymedia.ee/live/SKY_AAC"
+			},
+			{
+				"name" : "SSS-Radio",
+				"url" : "https://uvn-67-97.tll01.zonevs.eu/sss-radio"
+			},
+			{
+				"name" : "Star FM+",
+				"url" : "https://ice.leviracloud.eu/volna128-aac"
+			},
+			{
+				"name" : "Super Radio",
+				"url" : "https://stream.skymedia.ee/live/RR_AAC"
+			}
+		]
+	},
+	{
+		"group" : "V\u00e4lismaa",
+		"stations" : 
+		[
+			{
+				"name" : "BBC World Service",
+				"url" : "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service"
+			},
+			{
+				"name" : "Deutsche Welle",
+				"url" : "https://dispatcher.rndfnk.com/dw/1027/mp3/64/dw08.mp3"
+			},
+			{
+				"name" : "Finest radio",
+				"url" : "https://shoutcast.finestfm.fi/stream/1/listen.mp3"
+			},
+			{
+				"name" : "NPR",
+				"url" : "https://npr-ice.streamguys1.com/live.mp3"
+			},
+			{
+				"name" : "Radio Svoboda",
+				"url" : "https://stream.radiojar.com/hcrb063nn3quv"
+			},
+			{
+				"name" : "RFI Monde",
+				"url" : "https://rfimonde64k.ice.infomaniak.ch/rfimonde-64.mp3"
+			},
+			{
+				"name" : "Sveriges Radio P1",
+				"url" : "https://http-live.sr.se/p1-mp3-128"
+			},
+			{
+				"name" : "WRN",
+				"url" : "http://streaming.edmradio.online:8025/WRN-E"
+			},
+			{
+				"name" : "YLE Radio Suomi",
+				"url" : "https://icecast.live.yle.fi/radio/YleRS/icecast.audio"
+			}
+		]
+	},
+	{
+		"group" : "root",
+		"stations" : []
+	}
+]
