@@ -242,12 +242,20 @@
 				"url" : "https://stream.skymedia.ee/live/NRJ"
 			},
 			{
+				"name" : "PartyZone",
+				"url" : "https://cast.kahtlane.link/listen/partyzone/radio.mp3"
+			},
+			{
 				"name" : "Sky Plus D'n'B",
 				"url" : "https://stream.skymedia.ee/live/NRJdnb"
 			},
 			{
 				"name" : "Space FM",
 				"url" : "https://c34.radioboss.fm/stream/843"
+			},
+			{
+				"name" : "TechnoZone",
+				"url" : "https://cast.kahtlane.link/listen/technozone/radio.mp3"
 			},
 			{
 				"name" : "Vibra FM",
