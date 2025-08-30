@@ -322,6 +322,10 @@
 		"stations" : 
 		[
 			{
+				"name" : "Duo Softmix",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DS_softmix.aac"
+			},
+			{
 				"name" : "Elmari ballaadid",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/EB_elmariballaadid.aac"
 			},
