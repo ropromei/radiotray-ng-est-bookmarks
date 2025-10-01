@@ -372,6 +372,10 @@
 			{
 				"name" : "Raadio Tallinn",
 				"url" : "https://icecast.err.ee/raadiotallinn.mp3"
+			},
+			{
+				"name" : "Raadio X",
+				"url" : "https://ice.leviracloud.eu/raadioX192-mp3"
 			}
 		]
 	},
