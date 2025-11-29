@@ -144,10 +144,6 @@
 				"url" : "https://stream.skymedia.ee/live/SKYPLUS_AAC"
 			},
 			{
-				"name" : "Star FM",
-				"url" : "https://ice.leviracloud.eu/star128-aac"
-			},
-			{
 				"name" : "Star FM Eesti",
 				"url" : "https://ice.leviracloud.eu/starFMEesti128-aac"
 			},
@@ -524,6 +520,10 @@
 			{
 				"name" : "Retro FM J\u00f5ul",
 				"url" : "https://stream.skymedia.ee/live/RetroJ6ulud"
+			},
+			{
+				"name" : "Star FM",
+				"url" : "https://ice.leviracloud.eu/star128-aac"
 			}
 		]
 	}
