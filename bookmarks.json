@@ -128,10 +128,6 @@
 				"url" : "https://icecast.err.ee/r2eesti.mp3"
 			},
 			{
-				"name" : "R2Extra Music",
-				"url" : "https://icecast.err.ee/r2music.mp3"
-			},
-			{
 				"name" : "R2Extra Pop",
 				"url" : "https://icecast.err.ee/r2pop.mp3"
 			},
@@ -516,6 +512,10 @@
 			{
 				"name" : "Duo Christmas",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/christmas.aac"
+			},
+			{
+				"name" : "R2Extra J\u00f5ulud",
+				"url" : "https://icecast.err.ee/r2music.mp3"
 			},
 			{
 				"name" : "Retro FM J\u00f5ul",
