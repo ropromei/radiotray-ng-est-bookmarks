@@ -304,6 +304,14 @@
 				"url" : "https://play.sooviraadio.net/stream.mp3"
 			},
 			{
+				"name" : "Star FM 80's",
+				"url" : "https://ice.leviracloud.eu/StarFM80s"
+			},
+			{
+				"name" : "Star FM 90's",
+				"url" : "https://ice.leviracloud.eu/StarFM90s"
+			},
+			{
 				"name" : "Super Retro",
 				"url" : "https://stream.skymedia.ee/live/rrretro"
 			}
