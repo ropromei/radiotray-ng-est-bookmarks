@@ -145,7 +145,7 @@
 			},
 			{
 				"name" : "Tre Hits Radio",
-				"url" : "https://stream1.rcast.net/66833http://live.rcast.net:8714/electronic.mp3"
+				"url" : "https://free.rcast.net/66833"
 			}
 		]
 	},
@@ -214,8 +214,8 @@
 				"url" : "https://maggie.torontocast.com:2020/8110/stream"
 			},
 			{
-				"name" : "Hard FM",
-				"url" : "https://s5.radio.co/s69e02764f/listen"
+				"name" : "Hard FM legacy",
+				"url" : "https://cast.kahtlane.link/listen/hard_fm/radio.mp3"
 			},
 			{
 				"name" : "Kiss FM Eurovision",
