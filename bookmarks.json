@@ -334,6 +334,10 @@
 				"url" : "https://icecast.err.ee/klaraklassika.mp3"
 			},
 			{
+				"name" : "KlaRa Meditatsioon",
+				"url" : "https://icecast.err.ee/klarameditatsioon.mp3"
+			},
+			{
 				"name" : "KlaRa Nostalgia",
 				"url" : "https://icecast.err.ee/klaranostalgia.mp3"
 			},
