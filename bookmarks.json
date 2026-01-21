@@ -52,30 +52,6 @@
 			{
 				"name" : "Ruut FM",
 				"url" : "https://cdn.treraadio.ee/ruutfm"
-			},
-			{
-				"name" : "Tre Raadio Kesk-Eesti",
-				"url" : "https://cdn.treraadio.ee/kesk-eesti-tre"
-			},
-			{
-				"name" : "Tre Raadio P\u00f5hja-Eesti",
-				"url" : "https://cdn.treraadio.ee/pohja-tre"
-			},
-			{
-				"name" : "Tre Raadio P\u00e4rnu",
-				"url" : "https://cdn.treraadio.ee/parnu-tre"
-			},
-			{
-				"name" : "Tre Raadio Rapla",
-				"url" : "https://cdn.treraadio.ee/rapla-tre"
-			},
-			{
-				"name" : "Tre Raadio Viljandi",
-				"url" : "https://sc2.treraadio.ee/viljandi-tre"
-			},
-			{
-				"name" : "Tre Raadio Viru",
-				"url" : "https://sc2.treraadio.ee/viru-tre"
 			}
 		]
 	},
@@ -152,8 +128,8 @@
 				"url" : "https://ice.leviracloud.eu/starFMEesti128-aac"
 			},
 			{
-				"name" : "Tre Hits Radio",
-				"url" : "https://free.rcast.net/66833"
+				"name" : "XFM",
+				"url" : "https://ice.leviracloud.eu/XFM"
 			}
 		]
 	},
