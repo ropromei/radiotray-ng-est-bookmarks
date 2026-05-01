@@ -60,6 +60,10 @@
 		"stations" : 
 		[
 			{
+				"name" : "BIGFM",
+				"url" : "https://sc2.flamebox.org/bigfm"
+			},
+			{
 				"name" : "Duo",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac"
 			},
