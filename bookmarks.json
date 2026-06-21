@@ -426,6 +426,10 @@
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.aac"
 			},
 			{
+				"name" : "R4Extra Retro",
+				"url" : "https://icecast.err.ee/r4retro.mp3"
+			},
+			{
 				"name" : "Raadio 4",
 				"url" : "https://icecast.err.ee/raadio4.mp3"
 			},
