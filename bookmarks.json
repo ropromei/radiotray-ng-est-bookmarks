@@ -132,8 +132,8 @@
 				"url" : "https://ice.leviracloud.eu/starFMEesti128-aac"
 			},
 			{
-				"name": "TOPfm",
-				"url": "https://sc2.flamebox.org/topfm"
+				"name" : "TOPfm",
+				"url" : "https://sc2.flamebox.org/topfm"
 			},
 			{
 				"name" : "XFM",
@@ -156,6 +156,10 @@
 			{
 				"name" : "Rock FM",
 				"url" : "https://stream.skymedia.ee/live/rck_AAC"
+			},
+			{
+				"name" : "Rock FM Classics",
+				"url" : "https://stream.skymedia.ee/live/rckclassic"
 			},
 			{
 				"name" : "Rock FM Metal",
