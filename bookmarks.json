@@ -120,6 +120,10 @@
 				"url" : "https://c32.radioboss.fm:8744/stream"
 			},
 			{
+				"name" : "Retro '00",
+				"url" : "https://stream.skymedia.ee/live/retronul"
+			},
+			{
 				"name" : "Sky Plus",
 				"url" : "https://stream.skymedia.ee/live/SKYPLUS_AAC"
 			},
