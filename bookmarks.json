@@ -21,7 +21,7 @@
 			},
 			{
 				"name" : "Raadio 7",
-				"url" : "https://stream.skymedia.ee/live/R7"
+				"url" : "https://a7.asurahosting.com/listen/raadio7/radio.mp3"
 			},
 			{
 				"name" : "Vikerraadio",
@@ -51,7 +51,7 @@
 			},
 			{
 				"name" : "Ruut FM",
-				"url" : "https://cdn.treraadio.ee/ruutfm"
+				"url" : "https://a1.asurahosting.com/listen/ruut_fm/radio.mp3"
 			}
 		]
 	},
@@ -61,7 +61,7 @@
 		[
 			{
 				"name" : "BIGFM",
-				"url" : "https://sc2.flamebox.org/bigfm"
+				"url" : "https://sc2.flamebox.org/bigfm-hd"
 			},
 			{
 				"name" : "Duo",
