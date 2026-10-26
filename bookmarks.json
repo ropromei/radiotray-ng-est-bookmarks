@@ -88,6 +88,10 @@
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac"
 			},
 			{
+				"name" : "MyHits K-Pop",
+				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/MHKPop.aac"
+			},
+			{
 				"name" : "Novoe Radio",
 				"url" : "https://c4.radioboss.fm:8538/stream"
 			},
@@ -380,10 +384,6 @@
 			{
 				"name" : "Raadio Tallinn",
 				"url" : "https://icecast.err.ee/raadiotallinn.mp3"
-			},
-			{
-				"name" : "Raadio X",
-				"url" : "https://ice.leviracloud.eu/raadioX192-mp3"
 			}
 		]
 	},
