@@ -218,12 +218,16 @@
 				"url" : "https://maggie.torontocast.com:2020/8110/stream"
 			},
 			{
+				"name": "Haapsaly Bassline Radio",
+				"url": "https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.flac"
+			},
+			{
 				"name" : "Hard FM legacy",
 				"url" : "https://cast.kahtlane.link/listen/hard_fm/radio.mp3"
 			},
 			{
 				"name": "Hits Radio",
-				"url": "https://artemis.streamerr.co/listen/hitsradioestonia/MPGE?t=1793522859259"
+				"url": "https://artemis.streamerr.co/listen/hitsradioestonia/MPGE"
 			},
 			{
 				"name" : "MyHits Dance",
