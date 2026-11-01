@@ -81,7 +81,7 @@
 			},
 			{
 				"name" : "Kiss FM",
-				"url" : "https://stream.skymedia.ee/live/KISS_AAC"
+				"url" : "https://stream.skymedia.ee/live/KISS"
 			},
 			{
 				"name" : "MyHits",
@@ -90,10 +90,6 @@
 			{
 				"name" : "MyHits K-Pop",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/MHKPop.aac"
-			},
-			{
-				"name" : "Novoe Radio",
-				"url" : "https://c4.radioboss.fm:8538/stream"
 			},
 			{
 				"name" : "Power Hit Radio",
@@ -120,16 +116,12 @@
 				"url" : "https://icecast.err.ee/r2pop.mp3"
 			},
 			{
-				"name" : "Radio Top",
-				"url" : "https://c32.radioboss.fm:8744/stream"
-			},
-			{
 				"name" : "Retro '00",
 				"url" : "https://stream.skymedia.ee/live/retronul"
 			},
 			{
 				"name" : "Sky Plus",
-				"url" : "https://stream.skymedia.ee/live/SKYPLUS_AAC"
+				"url" : "https://stream.skymedia.ee/live/SKYPLUS"
 			},
 			{
 				"name" : "Star FM",
@@ -163,7 +155,7 @@
 			},
 			{
 				"name" : "Rock FM",
-				"url" : "https://stream.skymedia.ee/live/rck_AAC"
+				"url" : "https://stream.skymedia.ee/live/rck"
 			},
 			{
 				"name" : "Rock FM Classics",
@@ -222,14 +214,6 @@
 				"url" : "https://cast.kahtlane.link/listen/hard_fm/radio.mp3"
 			},
 			{
-				"name" : "Kiss FM Eurovision",
-				"url" : "https://stream.skymedia.ee/live/KissEurovisioon"
-			},
-			{
-				"name" : "Kiss FM Pride",
-				"url" : "https://stream.skymedia.ee/live/KissPride"
-			},
-			{
 				"name" : "MyHits Dance",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/md_mhdance.aac"
 			},
@@ -247,15 +231,11 @@
 			},
 			{
 				"name" : "Space FM",
-				"url" : "https://c34.radioboss.fm/stream/843"
+				"url" : "https://stream.spacefm.ee/live"
 			},
 			{
 				"name" : "TechnoZone",
 				"url" : "https://cast.kahtlane.link/listen/technozone/radio.mp3"
-			},
-			{
-				"name" : "Vibra FM",
-				"url" : "https://a11.asurahosting.com:6800/radio.mp3"
 			},
 			{
 				"name" : "XL Radio",
@@ -267,10 +247,6 @@
 		"group" : "Kullafond",
 		"stations" : 
 		[
-			{
-				"name" : "All The Best Radio",
-				"url" : "https://c4.radioboss.fm:8537/stream"
-			},
 			{
 				"name" : "Duo Gold",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac"
@@ -284,16 +260,12 @@
 				"url" : "https://radio.streemlion.com:2525/stream"
 			},
 			{
-				"name" : "Radio Nostalgia",
-				"url" : "https://c16.radioboss.fm:8327/stream"
-			},
-			{
 				"name" : "R4Extra Retro",
 				"url" : "https://icecast.err.ee/r4retro.mp3"
 			},
 			{
 				"name" : "Retro FM",
-				"url" : "https://stream.skymedia.ee/live/RETRO_AAC"
+				"url" : "https://stream.skymedia.ee/live/RETRO"
 			},
 			{
 				"name" : "Retro FM Disco",
@@ -302,10 +274,6 @@
 			{
 				"name" : "Retro FM Eestikas",
 				"url" : "https://stream.skymedia.ee/live/retro2.mp3"
-			},
-			{
-				"name" : "Retro FM Love",
-				"url" : "https://stream.skymedia.ee/live/RetroJ6ulud"
 			},
 			{
 				"name" : "Sooviraadio",
@@ -438,10 +406,6 @@
 				"url" : "https://a10.asurahosting.com:7640/radio.mp3"
 			},
 			{
-				"name" : "Narodnoe Radio",
-				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/narodnoe.aac"
-			},
-			{
 				"name" : "Raadio 4",
 				"url" : "https://icecast.err.ee/raadio4.mp3"
 			},
@@ -459,7 +423,7 @@
 			},
 			{
 				"name" : "Sky Radio",
-				"url" : "https://stream.skymedia.ee/live/SKY_AAC"
+				"url" : "https://stream.skymedia.ee/live/SKY"
 			},
 			{
 				"name" : "SSS-Radio",
@@ -471,7 +435,7 @@
 			},
 			{
 				"name" : "Super Radio",
-				"url" : "https://stream.skymedia.ee/live/RR_AAC"
+				"url" : "https://stream.skymedia.ee/live/RR"
 			}
 		]
 	},
@@ -528,6 +492,10 @@
 			{
 				"name" : "Duo Christmas",
 				"url" : "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/christmas.aac"
+			},
+			{
+				"name" : "Retro FM Jõul",
+				"url" : "https://stream.skymedia.ee/live/RetroJ6ulud"
 			}
 		]
 	}
